@@ -29,7 +29,7 @@ Key components of the SMS Spam Detection System include:
 ## **Dataset Used:**
 Print(‘spam.csv’):
 
-![](Images/Images/Aspose.Words.9ccfffcf-8d9b-46b7-9b0f-9eb95c9bce86.001.png)
+![](Images/Aspose.Words.9ccfffcf-8d9b-46b7-9b0f-9eb95c9bce86.001.png)
 
 5572 rows × 2 columns
 
